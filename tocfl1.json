@@ -1,3 +1,182 @@
 [
-    { "hanzi": "你", "pinyin": "Nǐ ", "meaning": "Bạn" }
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "meaning": "bạn"
+  },
+  {
+    "hanzi": "來",
+    "pinyin": "lái",
+    "meaning": "đến"
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "shì",
+    "meaning": "là"
+  },
+  {
+    "hanzi": "小姐",
+    "pinyin": "xiǎo jiě",
+    "meaning": "cô, tiểu thư"
+  },
+  {
+    "hanzi": "嗎",
+    "pinyin": "ma",
+    "meaning": "không?"
+  },
+  {
+    "hanzi": "接",
+    "pinyin": "jiē",
+    "meaning": "đón"
+  },
+  {
+    "hanzi": "我們",
+    "pinyin": "wǒ men",
+    "meaning": "chúng tôi"
+  },
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "meaning": "tôi"
+  },
+  {
+    "hanzi": "這",
+    "pinyin": "zhè",
+    "meaning": "này, đây"
+  },
+  {
+    "hanzi": "先生",
+    "pinyin": "xiān sheng",
+    "meaning": "ông, tiên sinh"
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "meaning": "tốt"
+  },
+  {
+    "hanzi": "姓",
+    "pinyin": "xìng",
+    "meaning": "họ"
+  },
+  {
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "meaning": "gọi là"
+  },
+  {
+    "hanzi": "你們",
+    "pinyin": "nǐ men",
+    "meaning": "các bạn"
+  },
+  {
+    "hanzi": "歡迎",
+    "pinyin": "huān yíng",
+    "meaning": "chào mừng"
+  },
+  {
+    "hanzi": "請問",
+    "pinyin": "qǐng wèn",
+    "meaning": "xin hỏi"
+  },
+  {
+    "hanzi": "是的",
+    "pinyin": "shì de",
+    "meaning": "đúng vậy"
+  },
+  {
+    "hanzi": "謝謝",
+    "pinyin": "xiè xie",
+    "meaning": "cảm ơn"
+  },
+  {
+    "hanzi": "不客氣",
+    "pinyin": "bú kè qi",
+    "meaning": "không có gì"
+  },
+  {
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "xin chào"
+  },
+  {
+    "hanzi": "請",
+    "pinyin": "qǐng",
+    "meaning": "mời"
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "meaning": "uống"
+  },
+  {
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "meaning": "trà"
+  },
+  {
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "meaning": "rất"
+  },
+  {
+    "hanzi": "好喝",
+    "pinyin": "hǎo hē",
+    "meaning": "ngon"
+  },
+  {
+    "hanzi": "什麽",
+    "pinyin": "shén me",
+    "meaning": "cái gì"
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "meaning": "người"
+  },
+  {
+    "hanzi": "喜歡",
+    "pinyin": "xǐ huān",
+    "meaning": "thích"
+  },
+  {
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "meaning": "trợ từ"
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "tā",
+    "meaning": "anh ấy"
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "meaning": "không"
+  },
+  {
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "meaning": "nào"
+  },
+  {
+    "hanzi": "要",
+    "pinyin": "yào",
+    "meaning": "muốn"
+  },
+  {
+    "hanzi": "咖啡",
+    "pinyin": "kā fēi",
+    "meaning": "cà phê"
+  },
+  {
+    "hanzi": "對不起",
+    "pinyin": "duì bu qǐ",
+    "meaning": "xin lỗi"
+  },
+  {
+    "hanzi": "哪國",
+    "pinyin": "nǎ guó",
+    "meaning": "nước nào"
+  }
 ]
